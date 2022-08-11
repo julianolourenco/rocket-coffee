@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Hambúrgueres",
+    "items": [
+      {
+        "title": "Burguer Clássico",
+        "description": "Pão Casseiro, 180g de carne, tomate, cebola, queijo colonial & molho da casa.",
+        "price": "R$22,90"
+      },
+      {
+        "title": "Burguer Salada",
+        "description": "Pão Casseiro, 150g de carne, alface, tomate, cebola, queijo mussarela & molho da casa.",
+        "price": "R$22,90"
+      },
+      {
+        "title": "Burguer Alcatra",
+        "description": "Pão Casseiro, 180g de Alcatra, Cheddar, tomate, cebola caramelizada & molho da casa.",
+        "price": "R$26,90"
+      }
+    ]
+  },
+  {
+    "category": "Cardápio Fit",
+    "items": [
+      {
+        "title": "Cold Brew garrafa 330ml",
+        "description": "Café extraído a frio em processo de 18h. Feito com grãos de café orgânico.",
+        "price": "R$16,90"
+      },
+      {
+        "title": "Salada Tropical",
+        "description": "Alface americana e rúcula com queijo minas, morango, abacaxi, pepino japonês, brócolis, amêndoas em lâminas e molho de mostarda e mel.",
+        "price": "R$18,98"
+      },
+      {
+        "title": "Massa integral com grão de bico",
+        "description": "Massa integral com chia, queijo minas, grão de bico, tomate cereja e pimenta biquinho salteados, molho de tomate, rúcula e queijo parmesão.",
+        "price": "R$26,90"
+      },
+      {
+        "title": "Omelete com rúcula e tomate seco",
+        "description": "Ovos, creme de leite, sal, tomate seco, rúcula, queijo mussarela, requeijão e tempero verde.",
+        "price": "R$19,90"
+      }
+    ]
+  },
+  {
+    "category": "Bebidas",
+    "items": [
+      {
+        "title": "Água com Gás",
+        "description": "500ml",
+        "price": "R$2,50"
+      },
+      {
+        "title": "Coca Cola sem Açucar",
+        "description": "2 Litros",
+        "price": "R$8,50"
+      },
+      {
+        "title": "Schweppes",
+        "description": "2 Litros",
+        "price": "R$8,50"
+      },
+      {
+        "title": "Red Bull",
+        "description": "250ml",
+        "price": "R$10,00"
+      },
+      {
+        "title": "Vodka Intencion Double Black",
+        "description": "900ml",
+        "price": "R$30,00"
+      },
+      {
+        "title": "Espumante Salton Moscatel",
+        "description": "750ml",
+        "price": "R$50,00"
+      }
+    ]
+  }
+]
